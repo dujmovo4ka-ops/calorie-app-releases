@@ -7,8 +7,6 @@
 Публічні релізи Android-застосунку **Platter** (лічильник калорій, двомовний UK/RU).
 Вихідний код розробляється в окремому приватному репозиторії.
 
-## ⬇️ Завантажити · Скачать · Download
-
 ### **[⬇️ Завантажити APK / Скачать APK / Download APK](../../releases/latest/download/platter.apk)**
 
 Пряме посилання завжди віддає найсвіжішу версію · Прямая ссылка всегда отдаёт самую свежую версию · Direct link always serves the newest version:
@@ -16,20 +14,36 @@
 
 Сторінка всіх версій / Все версии / All releases: [releases](../../releases/latest)
 
-**🇺🇦 Як встановити:**
+---
+
+### Як встановити · Как установить · How to install
+
+<details open>
+<summary>🇺🇦 <b>Українська</b></summary>
+
 1. Завантажте файл `.apk` зі сторінки релізу.
 2. На Android дозвольте «Встановлення з невідомих джерел».
 3. Встановіть і користуйтесь.
 
-**🇷🇺 Как установить:**
+</details>
+
+<details>
+<summary>🇷🇺 <b>Русский</b></summary>
+
 1. Скачайте файл `.apk` со страницы релиза.
 2. На Android разрешите «Установку из неизвестных источников».
 3. Установите и пользуйтесь.
 
-**🇬🇧 How to install:**
+</details>
+
+<details>
+<summary>🇬🇧 <b>English</b></summary>
+
 1. Download the `.apk` from the release page.
 2. On Android, allow “Install from unknown sources”.
 3. Install and enjoy.
+
+</details>
 
 ---
 
