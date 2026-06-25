@@ -9,7 +9,12 @@
 
 ## ⬇️ Завантажити · Скачать · Download
 
-### **[→ Остання версія / Последняя версия / Latest (APK)](../../releases/latest)**
+### **[⬇️ Завантажити APK / Скачать APK / Download APK](../../releases/latest/download/platter.apk)**
+
+Пряме посилання завжди віддає найсвіжішу версію · Прямая ссылка всегда отдаёт самую свежую версию · Direct link always serves the newest version:
+`https://github.com/dujmovo4ka-ops/calorie-app-releases/releases/latest/download/platter.apk`
+
+Сторінка всіх версій / Все версии / All releases: [releases](../../releases/latest)
 
 **🇺🇦 Як встановити:**
 1. Завантажте файл `.apk` зі сторінки релізу.
