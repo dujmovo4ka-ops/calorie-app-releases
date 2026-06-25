@@ -1,5 +1,8 @@
 # Platter — завантаження / загрузки / downloads
 
+[![Завантаження / Downloads](https://img.shields.io/github/downloads/dujmovo4ka-ops/calorie-app-releases/total?color=brightgreen&label=%E2%AC%87%20downloads)](../../releases)
+[![Остання версія / Latest](https://img.shields.io/github/v/release/dujmovo4ka-ops/calorie-app-releases?color=blue&label=release)](../../releases/latest)
+
 Публічні релізи Android-застосунку **Platter** (лічильник калорій, двомовний UK/RU).
 Вихідний код розробляється в окремому приватному репозиторії.
 
