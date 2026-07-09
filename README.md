@@ -9,7 +9,7 @@
 
 <br>
 
-Публічні релізи Android-застосунку **Smakota** — підрахунок калорій, ведення щоденника харчування, книга рецептів, планування меню на тиждень і формування списку покупок, відстеження КБЖУ. Двомовний UK/RU. Вихідний код розробляється в окремому приватному репозиторії.
+Публічні релізи Android-застосунку **Smakota** — планування меню на тиждень + формування списку покупок, ведення щоденника харчування, відстеження КБЖУ, книга рецептів. Двомовний UK/RU. Вихідний код розробляється в окремому приватному репозиторії.
 
 **[⬇️ Завантажити APK](../../releases/latest/download/smakota.apk)**
 
@@ -32,7 +32,7 @@ _Android 8.0+ (API 26)_
 
 <br>
 
-Публичные релизы Android-приложения **Smakota** — подсчёт калорий, ведение дневника питания, книга рецептов, планирование меню на неделю и формирование списка покупок, отслеживание КБЖУ. Двуязычное UK/RU. Исходный код разрабатывается в отдельном приватном репозитории.
+Публичные релизы Android-приложения **Smakota** — планирование меню в неделю + формирование списка покупок, ведение дневника питания, отслеживание КБЖУ, книга рецептов. Двуязычное UK/RU. Исходный код разрабатывается в отдельном приватном репозитории.
 
 **[⬇️ Скачать APK](../../releases/latest/download/smakota.apk)**
 
@@ -55,7 +55,7 @@ _Android 8.0+ (API 26)_
 
 <br>
 
-Public releases of the **Smakota** Android app — calorie counting, a food diary, a recipe book, weekly meal planning and a shopping list, macro (protein/fat/carbs) tracking. Bilingual UK/RU. The source code is developed in a separate private repository.
+Public releases of the **Smakota** Android app — weekly menu planning + shopping list creation, food diary, KBJU tracking, recipe book.. Bilingual UK/RU. The source code is developed in a separate private repository.
 
 **[⬇️ Download APK](../../releases/latest/download/smakota.apk)**
 
