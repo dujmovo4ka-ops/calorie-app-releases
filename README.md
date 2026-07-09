@@ -4,12 +4,11 @@
 [![Завантаження останньої / Latest downloads](https://img.shields.io/github/downloads/dujmovo4ka-ops/calorie-app-releases/latest/total?color=green&label=%E2%AC%87%20%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F)](../../releases/latest)
 [![Остання версія / Latest](https://img.shields.io/github/v/release/dujmovo4ka-ops/calorie-app-releases?color=blue&label=release)](../../releases/latest)
 
-<details>
-<summary>🇺🇦 <b>Українська</b></summary>
+**🇺🇦 Українська** · [🇷🇺 Русский](README.ru.md) · [🇬🇧 English](README.en.md)
 
-<br>
+---
 
-Публічні релізи Android-застосунку **Smakota** — планування меню на тиждень + формування списку покупок, ведення щоденника харчування, відстеження КБЖУ, книга рецептів. Двомовний UK/RU. Вихідний код розробляється в окремому приватному репозиторії.
+Публічні релізи Android-застосунку **Smakota** — підрахунок калорій, ведення щоденника харчування, книга рецептів, планування меню на тиждень і формування списку покупок, відстеження КБЖУ. Двомовний UK/RU. Вихідний код розробляється в окремому приватному репозиторії.
 
 **[⬇️ Завантажити APK](../../releases/latest/download/smakota.apk)**
 
@@ -24,51 +23,3 @@
 3. Встановіть і користуйтесь.
 
 _Android 8.0+ (API 26)_
-
-</details>
-
-<details>
-<summary>🇷🇺 <b>Русский</b></summary>
-
-<br>
-
-Публичные релизы Android-приложения **Smakota** — планирование меню в неделю + формирование списка покупок, ведение дневника питания, отслеживание КБЖУ, книга рецептов. Двуязычное UK/RU. Исходный код разрабатывается в отдельном приватном репозитории.
-
-**[⬇️ Скачать APK](../../releases/latest/download/smakota.apk)**
-
-Прямая ссылка всегда отдаёт самую свежую версию:
-`https://github.com/dujmovo4ka-ops/calorie-app-releases/releases/latest/download/smakota.apk`
-
-Страница всех версий: [releases](../../releases/latest)
-
-**Как установить:**
-1. Скачайте файл `.apk` со страницы релиза.
-2. На Android разрешите «Установку из неизвестных источников».
-3. Установите и пользуйтесь.
-
-_Android 8.0+ (API 26)_
-
-</details>
-
-<details open>
-<summary>🇬🇧 <b>English</b></summary>
-
-<br>
-
-Public releases of the **Smakota** Android app — weekly menu planning + shopping list creation, food diary, KBJU tracking, recipe book.. Bilingual UK/RU. The source code is developed in a separate private repository.
-
-**[⬇️ Download APK](../../releases/latest/download/smakota.apk)**
-
-The direct link always serves the newest version:
-`https://github.com/dujmovo4ka-ops/calorie-app-releases/releases/latest/download/smakota.apk`
-
-All releases page: [releases](../../releases/latest)
-
-**How to install:**
-1. Download the `.apk` from the release page.
-2. On Android, allow "Install from unknown sources".
-3. Install and enjoy.
-
-_Android 8.0+ (API 26)_
-
-</details>
